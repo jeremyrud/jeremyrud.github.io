@@ -13,4 +13,4 @@ I completed my PhD in Linguistics with an emphasis in Language and Society at th
 
 My research interests include sociocultural and applied linguistics, linguistic anthropology, human migration and humanitarian asylum, narrative, critical discourse analysis, critical data studies, interactional linguistics, ethnography, expertise, and Spanish.
 
-Welcome to my website. I update it periodically with my latest work. 
+Welcome to my website. I update it periodically with my latest work. [You can download the latest copy of my CV here.](http://jeremyrud.github.io/file/Jeremy A Rud CV 11 October 2026.pdf)
