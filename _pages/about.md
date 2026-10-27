@@ -13,4 +13,4 @@ I completed my PhD in Linguistics with an emphasis in Language and Society at th
 
 My research interests include sociocultural and applied linguistics, linguistic anthropology, human migration and humanitarian asylum, narrative, critical discourse analysis, critical data studies, interactional linguistics, ethnography, expertise, and Spanish.
 
-Welcome to my website. 
+Welcome to my website. I update it periodically with my latest work. 
