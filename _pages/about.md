@@ -11,4 +11,6 @@ I'm a Visiting Assistant Professor in the School of American and Global Studies 
 
 I completed my PhD in Linguistics with an emphasis in Language and Society at the University of California, Davis in 2024.
 
+My research interests include sociocultural and applied linguistics, linguistic anthropology, human migration and humanitarian asylum, narrative, critical discourse analysis, critical data studies, interactional linguistics, ethnography, expertise, and Spanish.
+
 Welcome to my website. 
