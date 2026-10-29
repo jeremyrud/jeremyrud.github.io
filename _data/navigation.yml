@@ -10,6 +10,7 @@
 main:
   -title: "CV"
    url: "http://jeremyrud.github.io/files/Jeremy%20A%20Rud%20CV%2011%20October%202026.pdf"
+ 
   - title: "Publications"
     url: /publications/
 
@@ -22,8 +23,8 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Blog Posts"
+ #   url: /year-archive/
     
  # - title: "CV"
  #   url: /cv/
