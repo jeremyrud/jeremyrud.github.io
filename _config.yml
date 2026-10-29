@@ -44,7 +44,7 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
-  zotero           : # URL
+  zotero           : "https://www.zotero.org/jeremyarud"
 
 
   # Repositories and software development
